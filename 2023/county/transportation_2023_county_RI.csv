@@ -1,1 +1,16 @@
 "geoid","geolevel","year","level","value"
+"44001","county",2023,"transportation_score",98.98
+"44003","county",2023,"transportation_score",94.16
+"44005","county",2023,"transportation_score",101.29
+"44007","county",2023,"transportation_score",105.35
+"44009","county",2023,"transportation_score",94.24
+"44001","county",2023,"transportation_rnk",60.1494
+"44003","county",2023,"transportation_rnk",46.5442
+"44005","county",2023,"transportation_rnk",65.3487
+"44007","county",2023,"transportation_rnk",74.3462
+"44009","county",2023,"transportation_rnk",46.9801
+"44001","county",2023,"transportation_state_rnk",50
+"44003","county",2023,"transportation_state_rnk",0
+"44005","county",2023,"transportation_state_rnk",75
+"44007","county",2023,"transportation_state_rnk",100
+"44009","county",2023,"transportation_state_rnk",25

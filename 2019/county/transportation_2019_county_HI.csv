@@ -1,1 +1,16 @@
 "geoid","geolevel","year","level","value"
+"15001","county",2019,"transportation_score",102.03
+"15003","county",2019,"transportation_score",117.5
+"15005","county",2019,"transportation_score",NA
+"15007","county",2019,"transportation_score",97.96
+"15009","county",2019,"transportation_score",100.61
+"15001","county",2019,"transportation_rnk",78.6765
+"15003","county",2019,"transportation_rnk",95.4284
+"15005","county",2019,"transportation_rnk",NA
+"15007","county",2019,"transportation_rnk",59.8465
+"15009","county",2019,"transportation_rnk",73.1138
+"15001","county",2019,"transportation_state_rnk",66.6667
+"15003","county",2019,"transportation_state_rnk",100
+"15005","county",2019,"transportation_state_rnk",NA
+"15007","county",2019,"transportation_state_rnk",0
+"15009","county",2019,"transportation_state_rnk",33.3333

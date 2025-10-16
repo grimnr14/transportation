@@ -1,1 +1,10 @@
 "geoid","geolevel","year","level","value"
+"10001","county",2023,"transportation_score",102.41
+"10003","county",2023,"transportation_score",175.69
+"10005","county",2023,"transportation_score",106.09
+"10001","county",2023,"transportation_rnk",67.7771
+"10003","county",2023,"transportation_rnk",98.8481
+"10005","county",2023,"transportation_rnk",76.0585
+"10001","county",2023,"transportation_state_rnk",0
+"10003","county",2023,"transportation_state_rnk",100
+"10005","county",2023,"transportation_state_rnk",50
